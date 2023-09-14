@@ -1,5 +1,5 @@
 {
-    "name": "abrigham/laravel-email-exceptions",
+    "name": "gusta14dev/laravel-email-exceptions",
     "description": "Email Exceptions from your laravel application",
     "license": "MIT",
     "keywords": ["email", "exception", "laravel", "laravel-5-package", "exception-handling", "debugging"],
@@ -12,7 +12,7 @@
     "minimum-stability": "stable",
     "require": {
         "php": "^7.2|^8.0",
-        "illuminate/support": "^6.0|^7.0|^8.0"
+        "illuminate/support": "^6.0|^7.0|^8.0|^9.0|^10.0"
     },
     "require-dev": {
         "phpunit/phpunit": "5.*",
